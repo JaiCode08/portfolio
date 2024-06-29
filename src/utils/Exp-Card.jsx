@@ -6,7 +6,7 @@ export const Experience = [
     Title: 'StatOracle',
     Role: 'Co-Founder | CTO', 
     Date: '/ March 2024 - Present',
-    Description: 'Leading development of StatOracle in all domains including web development, AI model development, and building end-to-end pipelines.',
+    Description: 'StatOracle is an upcoming football (soccer) statistic software & startup. Leading development of StatOracle in all domains including web development, AI model development, and building end-to-end pipelines.',
   },
   {
     image: './assets/opennlp-logo.jpeg',
