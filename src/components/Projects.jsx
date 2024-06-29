@@ -14,7 +14,7 @@ function Projects() {
       <ProjectCard />
       <footer className="bottom-0 text-center text-sm flex justify-center w-full">
         <span className="mb-3">
-          © {year} Copyright Jainish H. Patel. Powered by Aaditya Panchal's theme.
+          © {year} Copyright Jainish H. Patel. Powered by Aaditya Panchal's <a href="https://github.com/aadityapanchal7/portfolio-v1">theme</a> with modifications.
         </span>
       </footer>
     </div>
