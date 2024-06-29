@@ -7,21 +7,21 @@ import { routes } from '../utils/Routes'
 function Lander() {
   return (
     <div className='flex flex-col min-h-screen leading-relaxed text-black md:box-border md:w-1/2 items-start md:pl-20 pl-14 md:mt-5 md:fixed justify-center'>
-      <img src='./assets/Memoji1.jpg' className='rounded-full size-32 md:size-16 mb-6 block shadow-md'/>
-      <h1 className='text-4xl md:text-5xl font-thin'>Hey, I am</h1>
-      <h1 className='text-4xl font-bold text-blue-500 md:text-6xl text-balance'>Aaditya Panchal</h1>
+      <img src='./assets/ProfilePic.png' className='rounded-full size-64 md:size-20 mb-6 block shadow-md'/>
+      <h1 className='text-4xl md:text-5xl font-thin'>Hi, I am</h1>
+      <h1 className='text-4xl font-bold text-blue-500 md:text-6xl text-balance'>Jainish Patel</h1>
       <div className='flex flex-col flex-wrap justify-center pt-3 md:flex-row md:px-0 md:justify-start'>
         <p className='text-balance text-sm'>
-          a self-taught programmer with an <br className='md:hidden block' /> interest in 
+          an aspiring software engineer with an <br className='md:hidden block' /> interest in 
           <ReactTyped 
             strings={[
-              'Soccer.', 
+              'Software.',
+              'AI.',
+              'Robotics.',
+              'F1.', 
               'Sports.', 
-              'Business.', 
               'Startups.',
-              'The Gym.',
-              'Software.', 
-              'Stocks.',
+              'Space.',
             ]} 
             typeSpeed={70}
             backSpeed={50}

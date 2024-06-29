@@ -6,7 +6,19 @@ export const Languages = [
     Language: 'HTML/CSS',
   },
   {
-    Language: 'Javascript',
+    Language: 'JavaScript',
+  },
+  {
+    Language: 'Java',
+  },
+  {
+    Language: 'C/C++',
+  },
+  {
+    Language: 'C#',
+  },
+  {
+    Language: 'SQL',
   }
 ]
 
@@ -15,17 +27,17 @@ export const Frameworks = [
     Framework: 'Flask',
   },
   {
-    Framework: 'React',
+    Framework: 'PyTorch',
   },
   {
-    Framework: 'TailwindCSS',
+    Framework: 'Tensorflow',
+  },
+  {
+    Framework: 'WPILib',
   }
 ]
 
 export const Tools = [
-  {
-    Tool: 'Figma',
-  },
   {
     Tool: 'Git',
   },
@@ -37,6 +49,3 @@ export const Tools = [
   },
   
 ]
-
-
-
