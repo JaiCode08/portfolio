@@ -47,5 +47,10 @@ export const Tools = [
   {
     Tool: 'Visual Studio Code',
   },
-  
+  {
+    Tool: 'Google Cloud Services'
+  },
+  {
+    Tool: 'Microsoft Azure'
+  }
 ]

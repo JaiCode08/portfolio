@@ -7,7 +7,7 @@ function Skills() {
     <div className='pt-8 md:pt-0 lg:pb-16' id='Skills'>
 
       <div className='text-blue-500 font-bold text-xl md:text-2xl lg:text-3xl sticky top-0 w-full bg-white/90 py-2'>
-        Skills
+        //Skills
       </div>
 
       {/* Languages */}
@@ -51,7 +51,7 @@ function Skills() {
         <div className='flex items-center'>
           <IoChevronForwardOutline />
           <div className='font-bold text-yellow-600'>
-            Tools
+            Tools / Platforms
           </div>
         </div>
 
