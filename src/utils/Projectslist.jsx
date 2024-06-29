@@ -5,7 +5,7 @@ export const Projects = [
     height: '100',
     alt: 'Website_Image',
     title: 'Syntoma',
-    date: 'May 2023',
+    date: 'June 2024',
     description: 'An all-in-one x-ray diagnosis tool for radiologists. Currently in development and collaborating with Ayush Bheemaiah. Aims to support chest x-ray diagnosis on 14 diseases, knee x-ray diagnosis on severity levels of osteoarthritis, and much more.',
     link: '',
     repo: '',
