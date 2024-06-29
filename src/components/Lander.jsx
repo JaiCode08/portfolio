@@ -26,7 +26,7 @@ function Lander() {
             typeSpeed={70}
             backSpeed={50}
             loop
-            className='pl-1 text-orange-700 font-semibold'
+            className='pl-1 text-yellow-700 font-semibold'
           />
         </p>
       </div>

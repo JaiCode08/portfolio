@@ -14,7 +14,7 @@ function Skills() {
       <div className='md:mt-16 mt-8'>
         <div className='flex items-center'>
           <IoChevronForwardOutline />
-          <div className='font-bold text-orange-600'>
+          <div className='font-bold text-yellow-600'>
             Languages
           </div>
         </div>
@@ -32,7 +32,7 @@ function Skills() {
       <div className='mt-14'>
         <div className='flex items-center'>
           <IoChevronForwardOutline />
-          <div className='font-bold text-orange-600'>
+          <div className='font-bold text-yellow-600'>
             Frameworks
           </div>
         </div>
@@ -50,7 +50,7 @@ function Skills() {
       <div className='mt-14'>
         <div className='flex items-center'>
           <IoChevronForwardOutline />
-          <div className='font-bold text-orange-600'>
+          <div className='font-bold text-yellow-600'>
             Tools
           </div>
         </div>
