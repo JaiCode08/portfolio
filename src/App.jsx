@@ -1,4 +1,5 @@
 import React from 'react';
+import { Analytics } from "@vercel/analytics/react"
 import Lander from './components/Lander';
 import About from './components/About';
 import Skills from './components/Skills';
