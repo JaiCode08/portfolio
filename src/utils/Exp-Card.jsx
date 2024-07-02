@@ -1,6 +1,6 @@
 export const Experience = [
   {
-    image: './assets/statoracle-logo.jpg',
+    image: './assets/statoracle-logo.png',
     width: '80',
     alt: 'Logo',
     Title: 'StatOracle',
