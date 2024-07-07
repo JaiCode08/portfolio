@@ -20,16 +20,6 @@ export const Experience = [
     Link: 'https://opennlplabs.org/'
   },
   {
-    image: './assets/factful-logo.jpeg',
-    width: '80',
-    alt: 'Logo',
-    Title: 'Factful',
-    Role: 'Backend & AI Developer', 
-    Date: '/ April 2024 - Present',
-    Description: "Backend & AI (particularly LLMs) developer at Factful, where I specialize in using web scraping techniques to gather crucial data for our AI-generated suggestions platform and find-tune LLMs. Also developed a custom RAG architecture to ensure suggestions are unbiased and can cover recent events.",
-    Link: 'https://factful.io/'
-  },
-  {
     image: './assets/reteena-logo.jpeg',
     width: '80',
     alt: 'Logo',
@@ -38,6 +28,26 @@ export const Experience = [
     Date: '/ March 2024 - Present',
     Description: "Co-Founder of Reteena, a verified 503(c)(3) nonprofit under a fiscal sponsorship from Hack Club. We aim to reduce healthcare diagnosis costs by utilizing AI models. Currently working on using AI models to inference for Alzheimer's using low-resolution MRI scans and working on building a REST API to host the AI model diagnosis on the website.",
     Link: 'https://www.reteena.org/'
+  },
+  {
+    image: './assets/luminai.png',
+    width: '80',
+    alt: 'Logo',
+    Title: 'LuminAI Bootcamps',
+    Role: 'Officer', 
+    Date: '/ March 2024 - Present',
+    Description: "As an Officer at LuminAI Bootcamps, I attract attendees through social media and teach AI concepts to over 160 students. I create educational content (slides, hands-on-project, etc.) and recruit guest speakers from industry and academia. I present on topics such as CNNs, YOLOv8, evaluation metrics, and LLMs during our summer cohort.",
+    Link: ''
+  }, 
+  {
+    image: './assets/factful-logo.jpeg',
+    width: '80',
+    alt: 'Logo',
+    Title: 'Factful',
+    Role: 'Backend & AI Developer', 
+    Date: '/ April 2024 - Present',
+    Description: "Backend & AI (particularly LLMs) developer at Factful, where I specialize in using web scraping techniques to gather crucial data for our AI-generated suggestions platform and find-tune LLMs. Also developed a custom RAG architecture to ensure suggestions are unbiased and can cover recent events.",
+    Link: 'https://factful.io/'
   },
   {
     image: './assets/nop-logo.png',
